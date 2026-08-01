@@ -1,0 +1,10 @@
+# scratch / build artifacts — never publish
+tmp/
+*.bak
+*.bak.*
+.DS_Store
+Thumbs.db
+build_*.py
+zip/
+site/
+*.log
