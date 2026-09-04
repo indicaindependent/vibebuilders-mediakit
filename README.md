@@ -46,10 +46,10 @@ You don't buy your rank here — you **ship** for it.
 
 | Rank | How you get there | What you unlock |
 |---|---|---|
-| 🚀 **Member** | Join the Discord, ship your first working app | Full platform, free. Everyone publishes to their own `vibemaestro.app` subdomain. |
-| 🔨 **Builder** | Keep shipping + start helping others | Badges for every milestone; climb the leaderboard |
-| 🧭 **Vibe Advisor** | Consistent shipper + helper | A `vibeadvisors.ai` handle |
-| 💠 **Vibe Consult** | Top advisor | A `vibeconsult.ai` home, a working `@vibeconsult.ai` email, and **paid mentoring** |
+| **Member** | Join the Discord, ship your first working app | Full platform, free. Everyone publishes to their own `vibemaestro.app` subdomain. |
+| **Builder** | Keep shipping + start helping others | Badges for every milestone; climb the leaderboard |
+| **Vibe Advisor** | Consistent shipper + helper | A `vibeadvisors.ai` handle |
+| **Vibe Consult** | Top advisor | A `vibeconsult.ai` home, a working `@vibeconsult.ai` email, and **paid mentoring** |
 
 ---
 
